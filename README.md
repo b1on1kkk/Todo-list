@@ -11,7 +11,7 @@
 #### Easy to change priority of each Todo:
 ![1](https://github.com/b1on1kkk/Todo-list/assets/114521829/2377d0c8-d96a-4d9f-a708-ea38fbd35b0b)
 
-##### First priority Todo:
+#### First priority Todo:
 ![2](https://github.com/b1on1kkk/Todo-list/assets/114521829/eaeb8e49-1bbb-45f2-bd1b-0a2c1b2c7112)
 
 #### Done Todo:
