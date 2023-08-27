@@ -1,4 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Functionality
+
+### Columns:
+#### Add different columns for your Todos
+![todos_columns](https://github.com/b1on1kkk/Todo-list/assets/114521829/53dc3852-d5f6-46f2-943d-c5224fecba5a)
+
+### Todos:
+#### Add Todos:
+![todos_columns](https://github.com/b1on1kkk/Todo-list/assets/114521829/a3a6a96b-9156-4b99-9a76-58697dcaeb9a)
+
+#### Easy to change priority of each Todo:
+![1](https://github.com/b1on1kkk/Todo-list/assets/114521829/2377d0c8-d96a-4d9f-a708-ea38fbd35b0b)
+
+##### First priority Todo:
+![2](https://github.com/b1on1kkk/Todo-list/assets/114521829/eaeb8e49-1bbb-45f2-bd1b-0a2c1b2c7112)
+
+#### Done Todo:
+![3](https://github.com/b1on1kkk/Todo-list/assets/114521829/73e05d52-d194-4bbb-b0a7-64873da60c8e)
+
+#### All Todos are done:
+![4](https://github.com/b1on1kkk/Todo-list/assets/114521829/dcbada01-4de4-4d2f-ba37-259755cc4d4a)
+
+#### Double click on Todo to change its text:
+Before:
+![5](https://github.com/b1on1kkk/Todo-list/assets/114521829/18780a0d-aaeb-46f6-bb3b-fcc07c2e76b1)
+After:
+![6](https://github.com/b1on1kkk/Todo-list/assets/114521829/5f68686d-3f28-476e-bfb4-d7c7b18b321c)
+
+### Final screenshot:
+![final](https://github.com/b1on1kkk/Todo-list/assets/114521829/af3a3fff-4d6a-4a6f-ad85-0fc3ed41f2f6)
+
 
 ## Getting Started
 
@@ -13,22 +43,3 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
